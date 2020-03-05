@@ -6,3 +6,5 @@ Steps to install hyperledger fabric on fedora 31.
 3. Install `python`. (do we need 2.7?)
 4. Make sure you have `curl` installed.
 5. Install `go` lang.
+6. Install `docker`.
+7. `curl -sSL https://bit.ly/2ysbOFE | bash -s`
